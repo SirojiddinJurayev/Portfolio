@@ -109,6 +109,7 @@ header{
 .main{
     background: #414141;
     padding-top: 113px;
+    padding-bottom: 253px;
 }
 .main__card{
     background-color:#2A2A2A;
@@ -141,26 +142,27 @@ header{
     margin-bottom: 30px;
 }
 .main_page{
-    margin-bottom: 263px;
+    
     margin-left: 105px;
 }
 
 .about{
+    background: #414141;
     position: relative;
     background-image: url(/img/Ellips.png);
-    padding-bottom: 134px;
+    padding-bottom: 277px;
 }
 .about_img{
     position: absolute;
     top: -103px;
-    left: -8px;
+    left: 63px;
     background: #2A2A2A;
     padding-bottom: 29px;
 }
 .about__img-left{
     position: absolute;
-    bottom: 101px;
-    left: 27px;
+    bottom: 211px;
+    left: 93px;
     background: #2A2A2A;
     padding-left: 29px;
     padding-top: 29px;
@@ -170,7 +172,7 @@ header{
 }
 .about__img-right{
     position: absolute;
-    right: 55px;
+    right: 136px;
     top: 112px;
     background: #2A2A2A;
     padding-left: 15px;
@@ -180,8 +182,10 @@ header{
     
 }
 .about__page{
+    padding-top: 40px;
     background: #2C2C2C;
     width: 496px;
+    height: 822px;
     padding-left: 63px;
     padding-right: 63px;
     padding-bottom: 43px;
@@ -198,6 +202,8 @@ header{
     font-size: 20px;
     line-height: 23px;
     color: #E4E4E4;
+    text-align: center;
+    margin-top: 51px;
 }
 
 

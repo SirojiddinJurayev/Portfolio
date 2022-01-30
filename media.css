@@ -17,6 +17,7 @@
     }
     .main__page{
         flex-direction: column;
+        margin-left: 34px;
     }
     .main_page{
         flex-direction: column;
@@ -27,11 +28,17 @@
     .about__img-left{
         display: none;
     }
+    .main{
+        padding-bottom: 50px;
+    }
     .about_img{
         display: none;
     }
     .about__page{
-        margin: 0;
+        margin: 0 auto;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+        border-radius: 15px;
     }
     .card__images{
         display: none;
@@ -51,5 +58,61 @@
     }
     .header__bottom {
         margin-top: -113px;
+    }
+    .header__button{
+        margin: 0;
+        margin-left: 82px;
+    }
+    .main__card{
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    .main_page{
+        margin: 0;
+        margin-left: 34px;
+    }
+    .main_card{
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    .navbar-link{
+        margin: 0;
+    }
+    .about__page{
+        width: auto;
+        padding: 0;
+        padding-top: 25px;
+    }
+    .about__text{
+        text-align: none;
+    }
+    .row__card {
+        width: auto;
+        margin-left: 10px;
+    }
+    .row__word{
+        margin: 0;
+        text-align: none;
+        margin-bottom: 20px;
+    }
+    .row__desc{
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    .row-link{
+        margin: 0;
+        margin-left: 106px;
+        margin-top: 20px;
+    }
+    .footer__menu{
+        margin-left: 70px;
+        margin-bottom: 20px;
+    }
+    .footer__web{
+        margin-left: 70px;
+        margin-bottom: 20px;
+    }
+    .logo{
+        margin-left: 81px;
     }
 }
